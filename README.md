@@ -1,54 +1,32 @@
-```text
-╭─ ian@dev-station:~ ────────────────────────────────────────── [●][●][●] ─╮
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=520&lines=ian%40dev-station%3A~%24+whoami;Ian+C%C3%B3rdova+Gamboa;Full+Stack+Developer+%7C+Laravel+%2B+PostgreSQL;Building+High-Impact+Systems" alt="Typing SVG" />
+</div>
 
-ian@dev-station:~$ fastfetch
-         .--.           USER: Ian Córdova Gamboa (@ICG-dev)
-        |o_o |          ROLE: Full Stack Developer (2+ yrs exp)
-        |:_/ |          LOCATION: Guayaquil, Ecuador (GMT-5 / US Eastern overlap)
-       //   \ \         OS: Ubuntu Linux x86_64
-      (|     | )        SHELL: zsh / bash
-     /'\_   _/`\        BACKEND: PHP (Laravel 6-12, Lumen, Livewire), Python
-     \___)=(___/        FRONTEND: React, JavaScript, Blade, Kendo UI
-                        DATABASES: PostgreSQL (Query Opt.), MySQL, MongoDB
-                        INFRA & TOOLS: Docker, Git, Bruno, Postman, pgAdmin
-                        AI_AGENTS: Claude Code, Codex, Agy
+```yaml
+profile:
+  developer: "Ian Córdova Gamboa"
+  role: "Full Stack Developer (2+ yrs experience)"
+  location: "Guayaquil, Ecuador (GMT-5 / US Eastern overlap)"
+  open_to: "Remote Worldwide"
 
-ian@dev-station:~$ cat ~/stack/overview.json
-{
-  "backend": {
-    "languages": ["PHP", "Python"],
-    "frameworks": ["Laravel (6-12)", "Lumen", "Livewire"],
-    "architecture": ["REST APIs", "Microservices", "Scheduled Jobs & Data Pipelines"]
-  },
-  "databases": {
-    "postgresql": ["Query Optimization", "CTEs", "LATERAL Joins", "Window Functions", "JSONB"],
-    "others": ["MySQL", "MongoDB (Compass / mongosh)"]
-  },
-  "frontend": ["React", "JavaScript", "Blade", "Kendo UI"],
-  "devops_and_tools": ["Docker", "Linux (Ubuntu)", "Git", "Bruno", "Postman"]
-}
+core_stack:
+  backend: [PHP, Laravel, Lumen, Livewire, Python]
+  frontend: [React, JavaScript, Blade, Kendo UI]
+  databases: [PostgreSQL (Advanced Query Opt.), MySQL, MongoDB]
+  devops_tools: [Docker, Linux, Git, Bruno, Postman]
 
-ian@dev-station:~$ tree ~/workflow/ai_and_cli/
-ai_and_cli/
-├── llm-agents/
-│   ├── claude-code
-│   ├── codex
-│   └── agy
-└── environment/
-    ├── docker-containers
-    └── bash-scripts
-
-ian@dev-station:~$ ./status.sh
-[✔] Status: Open to Remote (Global / US Eastern Time)
-[⚙] Currently Building: SRI Electronic Billing Engine (PHP / Laravel / SOAP / XML)
-[✔] Ready to connect!
-
-ian@dev-station:~$ _
-
-╰───────────────────────────────────────────────────────────────────────────╯
+workflow_and_ai:
+  cli_agents: [Claude Code, Codex, Agy]
+  currently_building: "SRI Electronic Billing Engine (SOAP / XML)"
 ```
 
 <p align="center">
-  <a href="https://linkedin.com/in/ian-córdova"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/ICG-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://linkedin.com/in/ian-córdova">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ICG-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
 </p>
