@@ -1,6 +1,6 @@
-## Hi there 👋
+```text
+╭─ ian@dev-station:~ ────────────────────────────────────────── [●][●][●] ─╮
 
-```zsh
 ian@dev-station:~$ fastfetch
          .--.           USER: Ian Córdova Gamboa (@ICG-dev)
         |o_o |          ROLE: Full Stack Developer (2+ yrs exp)
@@ -44,34 +44,11 @@ ian@dev-station:~$ ./status.sh
 [✔] Ready to connect!
 
 ian@dev-station:~$ _
+
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
 
 <p align="center">
-  <a href="https://linkedin.com/in/ian-córdova">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ICG-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-<!--  <a href="mailto:iancordovag@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/ian-córdova"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/ICG-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 </p>
--->
-
-<!--
-**ICG-dev/ICG-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
