@@ -6,7 +6,7 @@
 profile:
   developer: "Ian Córdova Gamboa"
   role: "Full Stack Developer (2+ yrs experience)"
-  location: "Guayaquil, Ecuador (GMT-5 / US Eastern overlap)"
+  location: "Ecuador (GMT-5 / US Eastern overlap)"
   open_to: "Remote Worldwide"
 
 core_stack:
